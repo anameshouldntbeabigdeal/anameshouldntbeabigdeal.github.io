@@ -12449,7 +12449,7 @@
                             for (var t = {
                                     Accept: "text/plain,*/*;q=0.01",
                                     "Content-Type": "application/octet-stream",
-                                    "x-support-proto-version": "15.0.0",
+                                    "x-support-proto-version": "15.0.3",
                                     "x-client-version": "".concat(this.version.clientVersion)
                                 }, a = 0, n = Object.keys(t); a < n.length; a++) {
                                 var i = n[a];
