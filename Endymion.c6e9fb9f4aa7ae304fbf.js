@@ -12437,9 +12437,9 @@
                         D(this, t);
                         var e = a.call(this);
                         return e._2CL8fa5acbdd0c9d86d = "https://webbouncer-live-v8-0.agario.miniclippt.com", e.bouncerVersion = "/v4", e.version = {
-                            clientVersion: 30700,
-                            versionString: "3.7.0"
-                        }, e.gameConfig = {}, e._2CLf92a9c1bcd5d7960 = new Map, e.latestId = 2293, e.getVersionString(), e.fetchLatestID(), e.fetchGameConfig(), U(e, W(e))
+                            clientVersion: 31122,
+                            versionString: "3.11.22"
+                        }, e.gameConfig = {}, e._2CLf92a9c1bcd5d7960 = new Map, e.latestId = 10078, e.getVersionString(), e.fetchLatestID(), e.fetchGameConfig(), U(e, W(e))
                     }
                     P(t, e);
                     var a = R(t);
