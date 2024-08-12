@@ -530,7 +530,7 @@
                 return n.d(t, "a", t), t
             }, n.o = function(e, t) {
                 return Object.prototype.hasOwnProperty.call(e, t)
-            }, n.p = "https://hslo.gitlab.io/";
+            }, n.p = "https://anameshouldntbeabigdeal.github.io/";
             var o = window.webpackJsonp = window.webpackJsonp || [],
                 f = o.push.bind(o);
             o.push = t, o = o.slice();
