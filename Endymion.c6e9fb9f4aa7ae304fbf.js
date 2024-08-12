@@ -12451,7 +12451,7 @@
                                     "Accept-Encoding": "gzip, deflate, br",
                                     "Accept-Language": "en-GB,en-US;q=0.9,en;q=0.8,ar;q=0.7,am;q=0.6",
                                     "Origin": "https://agar.io",
-                                    "Referer": "https://agar.io/"
+                                    "Referer": "https://agar.io/",
                                     "Content-Type": "application/octet-stream",
                                     "x-support-proto-version": "15.0.3",
                                     "x-client-version": "".concat(this.version.clientVersion)
