@@ -13889,7 +13889,7 @@
                 }()),
                 Wt = new(function() {
                     function e() {
-                        D(this, e), this._url_kamo = "wss://free.blr2.piesocket.com/v3/1?api_key=xbpkxyHtS85RAVxQGW7QsHEJ2AqUirRz9bxg7hI0&notify_self=1", this._ws_inst = null, this.reconnectTimeout = 500
+                        D(this, e), this._url_kamo = "wss://chat.delt.io", this._ws_inst = null, this.reconnectTimeout = 500
                     }
                     return V(e, [{
                         key: "open",
