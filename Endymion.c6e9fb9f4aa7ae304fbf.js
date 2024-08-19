@@ -13889,7 +13889,7 @@
                 }()),
                 Wt = new(function() {
                     function e() {
-                        D(this, e), this._url_kamo = "wss://chat.delt.io", this._ws_inst = null, this.reconnectTimeout = 500
+                        D(this, e), this._url_kamo = "wss://chat.delt.io/ws", this._ws_inst = null, this.reconnectTimeout = 500
                     }
                     return V(e, [{
                         key: "open",
