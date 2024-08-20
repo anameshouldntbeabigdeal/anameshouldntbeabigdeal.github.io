@@ -7369,12 +7369,18 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ([{
+  '_2CL5b08d4f823242b6e': '20 August 2024',
+  '_2CL8c7cbeadc1d969c5': [{
+    '_2CLa2b5325b25fe36f2': 'add_circle',
+    '_2CL3f243e13444f693a': 'Fixed Agar.io Servers'
+  }]
+}, {
   '_2CL5b08d4f823242b6e': '03 July 2020',
   '_2CL8c7cbeadc1d969c5': [{
     '_2CLa2b5325b25fe36f2': 'add_circle',
     '_2CL3f243e13444f693a': 'Renamed to HSLO Endymion.'
-  }]
 }, {
+  }]
   '_2CL5b08d4f823242b6e': '28 August 2019',
   '_2CL8c7cbeadc1d969c5': [{
     '_2CLa2b5325b25fe36f2': 'bug_report',
