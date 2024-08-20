@@ -7379,8 +7379,8 @@ __webpack_require__.r(__webpack_exports__);
   '_2CL8c7cbeadc1d969c5': [{
     '_2CLa2b5325b25fe36f2': 'add_circle',
     '_2CL3f243e13444f693a': 'Renamed to HSLO Endymion.'
-}, {
   }]
+}, {
   '_2CL5b08d4f823242b6e': '28 August 2019',
   '_2CL8c7cbeadc1d969c5': [{
     '_2CLa2b5325b25fe36f2': 'bug_report',
